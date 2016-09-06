@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Harjoitus1</string>
+    <string name="hello_world_land">Tere vaakamaailma</string>
+    <string name="another_string">Tässä on toinen esimerkkiteksti</string>
+</resources>
