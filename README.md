@@ -2,4 +2,4 @@
 
 ##Screenshot collection
 
-!(https://github.com/Eurybus/Android-School-projects/wiki "Link to Wiki)
+![Links](https://github.com/Eurybus/Android-School-projects/wiki "Link to Wiki)
