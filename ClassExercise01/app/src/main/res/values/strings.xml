@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Start a new layout</string>
+    <string name="button_text">Start a new activity</string>
+    <string name="aux_ac_text">Auxiliary activity</string>
+</resources>
